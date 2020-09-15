@@ -1,2 +1,1 @@
-# ModernJavaScript
- Oblig 4 i Webapplikasjoner
+#Merge Conflict oppgave for Oblig 3 - Webapplikasjoner
