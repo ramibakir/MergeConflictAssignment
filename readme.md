@@ -1,1 +1,2 @@
-# Please read me 
+# ModernJavaScript
+ Oblig 4 i Webapplikasjoner
